@@ -3,12 +3,12 @@ Working with my SQL knowledge and a dataset involving product purchase informati
 
 The fields I'll be working with include the following:
 
-created_at (date)
-name (string)
-address (string)
-state (string)
-zipcode (integer)
-user_id (integer)
+- created_at (date) 
+- name (string)
+- address (string)
+- state (string)
+- zipcode (integer)
+- user_id (integer)
 
 ## #1
 "Write a query that returns the count for all records in the purchases table."
